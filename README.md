@@ -1,5 +1,7 @@
 # Masters-thesis
-This is a repository of my master's thesis under the title of "Identifying Cross-organ Pan-fibrotic Disease Signatures in their Cellular Context" conducted with the Intelligent Imaging group at the BIH, Berlin. <br>
+This is a repository of my master's thesis under the title of "Identifying Cross-organ Pan-fibrotic Disease Signatures in their Cellular Context" conducted with the Intelligent Imaging group at the BIH, Berlin. <be>
+
+
 This repository was created after the project's completion to maintain the code. Each folder has a README file that explains the purpose of the notebooks. 
 
 ## Abstract
